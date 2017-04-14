@@ -1,0 +1,45 @@
+
+*************************************************************************************************
+2014.04.17 00:03:26 ||| Robot Fury ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+Entity of type "AccountLocation" in state "Added" has the following validation errors:
+- Property: "Name", Error: "The Name field is required."
+Entity of type "AccountLocation" in state "Added" has the following validation errors:
+- Property: "Name", Error: "The Name field is required."
+Entity of type "AccountLocation" in state "Added" has the following validation errors:
+- Property: "Name", Error: "The Name field is required."
+Entity of type "AccountLocation" in state "Added" has the following validation errors:
+- Property: "Name", Error: "The Name field is required."
+
+*************************************************************************************************
+2014.04.17 02:57:07 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:No connection string named 'ReferralsEntities' could be found in the application config file. --- INNER-EXCEPTION: --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Select[TSource,TResult](IQueryable`1 source, Expression`1 selector)
+   at Referrals.ReferralsServices.AccountSvc.GetAllAccountStatus(ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 107
+
+*************************************************************************************************
+2014.04.17 02:57:22 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:No connection string named 'ReferralsEntities' could be found in the application config file. --- INNER-EXCEPTION: --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Include(String path)
+   at System.Data.Entity.Infrastructure.DbQuery`1.Include(String path)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountByEmailAndPassword(String email, String password, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 204
+
+*************************************************************************************************
+2014.04.17 02:57:36 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:No connection string named 'ReferralsEntities' could be found in the application config file. --- INNER-EXCEPTION: --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   at System.Data.Entity.Internal.InternalContext.Initialize()
+   at System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Include(String path)
+   at System.Data.Entity.Infrastructure.DbQuery`1.Include(String path)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountByEmailAndPassword(String email, String password, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 204
+
+*************************************************************************************************
+2014.04.17 19:36:44 ||| Not Available ||| Not Available ||| Not Available ||| 

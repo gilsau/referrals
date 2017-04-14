@@ -1,0 +1,24 @@
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\Referrals.ReferralsServices.dll
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\Referrals.ReferralsServices.pdb
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Debug\Referrals.ReferralsServices.dll
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Debug\Referrals.ReferralsServices.pdb
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\Referrals.ReferralsServices.dll.config
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Debug\ReferralsServices.csprojResolveAssemblyReference.cache
+E:\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\Referrals.ReferralsServices.dll.config
+E:\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\Referrals.ReferralsServices.dll
+E:\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\Referrals.ReferralsServices.pdb
+E:\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\EntityFramework.dll
+E:\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\EntityFramework.xml
+E:\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Debug\ReferralsServices.csprojResolveAssemblyReference.cache
+E:\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Debug\Referrals.ReferralsServices.dll
+E:\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Debug\Referrals.ReferralsServices.pdb
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\Referrals.ReferralsServices.dll.config
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\Referrals.ReferralsServices.dll
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\Referrals.ReferralsServices.pdb
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\EntityFramework.dll
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Debug\EntityFramework.xml
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Debug\ReferralsServices.csprojResolveAssemblyReference.cache
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Debug\Referrals.ReferralsServices.dll
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Debug\Referrals.ReferralsServices.pdb

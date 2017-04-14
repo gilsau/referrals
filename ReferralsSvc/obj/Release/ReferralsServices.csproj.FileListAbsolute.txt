@@ -1,0 +1,16 @@
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\Referrals.ReferralsServices.dll.config
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\Referrals.ReferralsServices.dll
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\Referrals.ReferralsServices.pdb
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\EntityFramework.dll
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\EntityFramework.xml
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Release\ReferralsServices.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Release\Referrals.ReferralsServices.dll
+C:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Release\Referrals.ReferralsServices.pdb
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\Referrals.ReferralsServices.dll.config
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\Referrals.ReferralsServices.dll
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\Referrals.ReferralsServices.pdb
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\EntityFramework.dll
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\bin\Release\EntityFramework.xml
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Release\ReferralsServices.csprojResolveAssemblyReference.cache
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Release\Referrals.ReferralsServices.dll
+C:\Passport Recovered Files\_Web Development\Equity Apps\Referrals\ReferralsSvc\obj\Release\Referrals.ReferralsServices.pdb

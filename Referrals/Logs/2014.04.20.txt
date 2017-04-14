@@ -1,0 +1,108 @@
+
+*************************************************************************************************
+2014.04.20 21:20:57 ||| Michelle Bell ||| Michelle@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 21:36:40 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 21:51:16 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 22:20:20 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 22:23:10 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 22:23:18 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 22:29:30 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:41:52 ||| Wendy Sykes ||| Wendy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:44:52 ||| Wendy Sykes ||| Wendy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:45:44 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:46:44 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:49:54 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:50:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:51:45 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:53:07 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:53:39 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:53:51 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137
+
+*************************************************************************************************
+2014.04.20 23:55:53 ||| Scary Terry ||| Scary@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 137

@@ -1,0 +1,1329 @@
+
+*************************************************************************************************
+2014.04.29 07:07:45 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:Non-static method requires a target. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryGetFieldOrPropertyValue(MemberExpression me, Object instance, Object& memberValue)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryEvaluatePath(Expression expression, ConstantExpression& constantExpression)
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Data.Entity.Internal.Linq.InternalQuery`1.GetEnumerator()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Collections.Generic.IEnumerable<TResult>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 196
+
+*************************************************************************************************
+2014.04.29 07:08:02 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:Non-static method requires a target. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryGetFieldOrPropertyValue(MemberExpression me, Object instance, Object& memberValue)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryEvaluatePath(Expression expression, ConstantExpression& constantExpression)
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Data.Entity.Internal.Linq.InternalQuery`1.GetEnumerator()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Collections.Generic.IEnumerable<TResult>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 196
+
+*************************************************************************************************
+2014.04.29 07:08:05 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:Non-static method requires a target. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryGetFieldOrPropertyValue(MemberExpression me, Object instance, Object& memberValue)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryEvaluatePath(Expression expression, ConstantExpression& constantExpression)
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Data.Entity.Internal.Linq.InternalQuery`1.GetEnumerator()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Collections.Generic.IEnumerable<TResult>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 196
+
+*************************************************************************************************
+2014.04.29 07:08:06 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:Non-static method requires a target. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryGetFieldOrPropertyValue(MemberExpression me, Object instance, Object& memberValue)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryEvaluatePath(Expression expression, ConstantExpression& constantExpression)
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Data.Entity.Internal.Linq.InternalQuery`1.GetEnumerator()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Collections.Generic.IEnumerable<TResult>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 196
+
+*************************************************************************************************
+2014.04.29 07:08:06 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:Non-static method requires a target. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryGetFieldOrPropertyValue(MemberExpression me, Object instance, Object& memberValue)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryEvaluatePath(Expression expression, ConstantExpression& constantExpression)
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Data.Entity.Internal.Linq.InternalQuery`1.GetEnumerator()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Collections.Generic.IEnumerable<TResult>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 196
+
+*************************************************************************************************
+2014.04.29 07:08:07 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:Non-static method requires a target. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryGetFieldOrPropertyValue(MemberExpression me, Object instance, Object& memberValue)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryEvaluatePath(Expression expression, ConstantExpression& constantExpression)
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Data.Entity.Internal.Linq.InternalQuery`1.GetEnumerator()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Collections.Generic.IEnumerable<TResult>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 196
+
+*************************************************************************************************
+2014.04.29 07:21:06 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:21:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:21:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:22:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:22:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:23:12 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:23:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:24:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:24:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:25:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:25:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:26:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:26:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:27:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:27:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:28:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:28:42 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:29:12 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:29:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:30:12 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:30:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:31:12 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:31:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:32:12 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:32:42 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:33:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:33:42 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:34:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:34:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:35:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:35:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:36:11 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:36:42 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:37:12 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:37:41 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 07:38:12 ||| Chaos Hardwear ||| admin@chaoshardwear.com ||| 512-430-4048 ||| 
+
+*************************************************************************************************
+2014.04.29 08:09:28 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:10:08 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:10:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:11:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:11:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:12:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:12:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:13:06 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:13:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:14:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:14:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:14:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:14:51 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:15:21 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:15:51 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:16:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:16:51 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:17:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:17:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:18:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:18:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:19:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:19:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:20:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:20:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:21:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:21:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:22:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:22:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:23:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:23:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:24:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:24:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:25:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:25:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:26:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:26:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 112
+
+*************************************************************************************************
+2014.04.29 08:29:36 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:29:39 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 214
+
+*************************************************************************************************
+2014.04.29 08:29:40 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:29:42 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 214
+
+*************************************************************************************************
+2014.04.29 08:29:42 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 214
+
+*************************************************************************************************
+2014.04.29 08:29:43 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 214
+
+*************************************************************************************************
+2014.04.29 08:29:45 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 214
+
+*************************************************************************************************
+2014.04.29 08:29:45 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:30:30 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:31:10 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:31:39 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:32:10 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:32:39 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:33:10 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:33:39 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:34:10 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:38:05 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:38:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:42:42 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:43:29 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:43:58 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:44:28 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:44:58 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:45:28 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:45:59 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:46:29 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 08:46:59 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:19:25 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:22:52 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:23:56 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:27:32 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:27:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:28:06 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:28:36 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:29:06 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:29:36 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:30:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:30:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:31:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:31:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:32:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:32:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:33:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:33:39 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:34:13 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:34:39 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:35:08 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:35:38 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:36:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:36:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:37:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:37:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:38:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:38:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:39:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:39:38 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:40:08 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:40:38 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:40:57 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 112
+
+*************************************************************************************************
+2014.04.29 09:43:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 167
+
+*************************************************************************************************
+2014.04.29 09:43:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 167
+
+*************************************************************************************************
+2014.04.29 09:43:21 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 167
+
+*************************************************************************************************
+2014.04.29 09:43:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 167
+
+*************************************************************************************************
+2014.04.29 09:43:22 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:43:25 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 167
+
+*************************************************************************************************
+2014.04.29 09:43:26 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 167
+
+*************************************************************************************************
+2014.04.29 09:43:27 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 167
+
+*************************************************************************************************
+2014.04.29 09:43:43 ||| Not Available ||| Not Available ||| Not Available ||| MESSAGE:Non-static method requires a target. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, BindingFlags invokeAttr, Binder binder, Object[] index, CultureInfo culture)
+   at System.Reflection.RuntimePropertyInfo.GetValue(Object obj, Object[] index)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryGetFieldOrPropertyValue(MemberExpression me, Object instance, Object& memberValue)
+   at System.Data.Objects.ELinq.QueryParameterExpression.TryEvaluatePath(Expression expression, ConstantExpression& constantExpression)
+   at System.Data.Objects.ELinq.QueryParameterExpression.EvaluateParameter(Object[] arguments)
+   at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Data.Entity.Internal.Linq.InternalQuery`1.GetEnumerator()
+   at System.Data.Entity.Infrastructure.DbQuery`1.System.Collections.Generic.IEnumerable<TResult>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 145
+
+*************************************************************************************************
+2014.04.29 09:49:35 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:50:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:50:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:51:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:51:47 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:52:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:52:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:53:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:53:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:54:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:54:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:55:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:55:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:56:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:56:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:57:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:57:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:58:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:58:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:59:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 09:59:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:00:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:00:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:01:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:01:47 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:02:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:02:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:03:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:03:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:04:16 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:04:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:04:57 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:05:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:05:31 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:06:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:06:31 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:07:02 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:07:32 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:08:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:08:31 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:09:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:09:31 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:10:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:10:31 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:11:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:11:31 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:12:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:12:31 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:13:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:13:32 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:13:41 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:13:46 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:13:54 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:Input string was not in a correct format. --- INNER-EXCEPTION: --- SOURCE:mscorlib --- STACK-TRACE:   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Referrals.ReferralsServices.AccountSvc.GetAccountById(Int32 accountId, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\AccountSvc.cs:line 112
+
+*************************************************************************************************
+2014.04.29 10:16:34 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 167
+
+*************************************************************************************************
+2014.04.29 10:16:35 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| MESSAGE:An error occurred while updating the entries. See the inner exception for details. --- INNER-EXCEPTION:System.Data.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: The INSERT statement conflicted with the FOREIGN KEY constraint "fk_Communication_Account_To". The conflict occurred in database "Referrals", table "dbo.Account", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Mapping.Update.Internal.DynamicUpdateCommand.Execute(UpdateTranslator translator, EntityConnection connection, Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   --- End of inner exception stack trace ---
+   at System.Data.Mapping.Update.Internal.UpdateTranslator.Update(IEntityStateManager stateManager, IEntityAdapter adapter)
+   at System.Data.EntityClient.EntityAdapter.Update(IEntityStateManager entityCache)
+   at System.Data.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges() --- SOURCE:EntityFramework --- STACK-TRACE:   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at Referrals.ReferralsServices.CommSvc.GetMessagesByConversationId(Nullable`1 conversationId, Boolean newMessages, ServiceCallResult& scr) in c:\Users\Alex\Google Drive\_Web Development\Equity Apps\Referrals\ReferralsSvc\CommSvc.cs:line 167
+
+*************************************************************************************************
+2014.04.29 10:16:55 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:17:38 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:17:58 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:18:03 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:18:31 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:19:02 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:19:31 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:20:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:20:32 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:21:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:21:32 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:21:45 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:21:51 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:22:01 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:22:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:22:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:23:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:23:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:24:03 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:24:08 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:24:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:25:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:25:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:26:09 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:27:25 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:27:32 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:27:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:28:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:28:37 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:29:07 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:29:14 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:29:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:29:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:30:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:30:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:31:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:31:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:32:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:32:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:33:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:33:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:34:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:34:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:35:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:35:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:36:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:36:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:37:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:37:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:38:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:38:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:39:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:39:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:40:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:40:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:41:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:41:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:42:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:42:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:43:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:43:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:44:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:44:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:45:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:45:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:46:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:46:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:47:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:47:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:48:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:48:51 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:49:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:49:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:50:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:50:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:51:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:51:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:52:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:52:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:53:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:53:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:54:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:54:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:55:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:55:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:56:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:56:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:57:20 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:57:50 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:58:19 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
+
+*************************************************************************************************
+2014.04.29 10:58:49 ||| Anarchy Bill ||| Anarchy@webdeventerprises.com ||| 555-555-5555 ||| 
